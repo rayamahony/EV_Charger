@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=CurrentSensor_input_HOT Pin=U2-1
+Added Pin To Net: NetName=CurrentSensor_input_HOT Pin=U2-2
+Added Pin To Net: NetName=CurrentSensor_output_HOT Pin=U2-3
+Added Pin To Net: NetName=CurrentSensor_output_HOT Pin=U2-4
+Added Pin To Net: NetName=CurrentSensor_input_NEUTRAL Pin=U4-1
+Added Pin To Net: NetName=CurrentSensor_input_NEUTRAL Pin=U4-2
+Added Pin To Net: NetName=CurrentSensor_output_NEUTRAL Pin=U4-3
+Added Pin To Net: NetName=CurrentSensor_output_NEUTRAL Pin=U4-4
+Added Pin To Net: NetName=TRIAC_driver_high_NEUTRAL Pin=U5-25
+Change Net Name : Old Net Name=NetU5_26 New Net Name=TRIAC_driver_HOT

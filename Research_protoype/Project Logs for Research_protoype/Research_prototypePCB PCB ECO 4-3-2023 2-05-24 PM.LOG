@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=0603
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.3 New Footprint=0603
+Change Component Designator: OldDesignator=SGND NewDesignator=SGND1
+Added Member To Class: ClassName=Logic_Power Member=Component SGND1 TP

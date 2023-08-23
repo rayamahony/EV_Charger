@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=+5 Pin=C7-2
+Removed Pin From Net: NetName=+5 Pin=C8-2
+Removed Pin From Net: NetName=+5 Pin=C9-2
+Removed Pin From Net: NetName=+5 Pin=Q5-8
+Removed Pin From Net: NetName=+5 Pin=Q6-8
+Removed Pin From Net: NetName=+5 Pin=Q7-8
+Removed Pin From Net: NetName=+5 Pin=R13-1
+Removed Pin From Net: NetName=+5 Pin=R15-1
+Removed Pin From Net: NetName=+5 Pin=R21-1
+Removed Pin From Net: NetName=+5 Pin=R23-1
+Removed Pin From Net: NetName=+5 Pin=R27-1
+Removed Pin From Net: NetName=+5 Pin=R29-1
+Removed Pin From Net: NetName=+5 Pin=V_senseVccG-1
+Removed Pin From Net: NetName=+5 Pin=V_senseVccH-1
+Removed Pin From Net: NetName=+5 Pin=V_senseVccN-1
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P2-2
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-5
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=Q5-8
+Added Pin To Net: NetName=NetC7_2 Pin=R13-1
+Added Pin To Net: NetName=NetC7_2 Pin=R15-1
+Added Pin To Net: NetName=NetC7_2 Pin=V_senseVccH-1
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=Q6-8
+Added Pin To Net: NetName=NetC8_2 Pin=R21-1
+Added Pin To Net: NetName=NetC8_2 Pin=R23-1
+Added Pin To Net: NetName=NetC8_2 Pin=V_senseVccN-1
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=Q7-8
+Added Pin To Net: NetName=NetC9_2 Pin=R27-1
+Added Pin To Net: NetName=NetC9_2 Pin=R29-1
+Added Pin To Net: NetName=NetC9_2 Pin=V_senseVccG-1
+Added Net: Name=NetC9_2
+Add Class Member: Failed to add class member : Component P2 BH-127A-1
+Add Class Member: Failed to add class member : Component U3 TCR2EF50,LM(CT
+Added Member To Class: ClassName=Voltage_sensor Member=Component V_senseN (V_senseN?) TP

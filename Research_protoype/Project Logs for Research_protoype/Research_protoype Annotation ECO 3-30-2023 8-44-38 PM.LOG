@@ -1,0 +1,3 @@
+Change Component Physical Designator: Old Designator=V_senseH_OUT New Designator=V_thresOUT
+Change Component Physical Designator: Old Designator=V_senseVccH New Designator=+5VLDO1
+Change Component Physical Designator: Old Designator=Vsense_H_IN New Designator=H_grid

@@ -1,0 +1,8 @@
+Added Component: Designator=+5VLDO1(TP)
+Added Component: Designator=H_Grid(TP)
+Added Pin To Net: NetName=+5V_LDO_1 Pin=+5VLDO1-1
+Added Pin To Net: NetName=H_Grid Pin=H_Grid-1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=Voltage_sensor Member=Component +5VLDO1 TP
+Added Member To Class: ClassName=Main Member=Component H_Grid TP
+Added Member To Class: ClassName=Voltage_sensor Member=Component H_grid TP

@@ -1,0 +1,9 @@
+Added Component: Designator=J3(block)
+Added Pin To Net: NetName=H_Grid Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=N_Grid Pin=J3-4
+Added Room: Name=Designator
+Added Room: Name=Logic_Power
+Added Room: Name=MCU
+Added Room: Name=Voltage_sensor

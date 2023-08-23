@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=V_senseH NewDesignator=V_senseH_OUT
+Change Component Designator: OldDesignator=V_senseN NewDesignator=V_senseG_OUT
+Change Component Designator: OldDesignator=V_senseN NewDesignator=V_senseN_OUT
+Change Component Designator: OldDesignator=Vsense_G NewDesignator=Vsense_G_IN
+Change Component Designator: OldDesignator=Vsense_H NewDesignator=Vsense_H_IN
+Change Component Designator: OldDesignator=Vsense_N NewDesignator=Vsense_N_IN
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P2-2
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Class Member: Failed to add class member : Component P2 BH-127A-1
+Add Class Member: Failed to add class member : Component U3 TCR2EF50,LM(CT
+Added Member To Class: ClassName=Voltage_sensor Member=Component V_senseG_OUT TP

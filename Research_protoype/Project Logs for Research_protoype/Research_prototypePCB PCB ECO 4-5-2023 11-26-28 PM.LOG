@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=H_Grid Pin=J3-1
+Removed Pin From Net: NetName=N_Grid Pin=J3-2
+Removed Pin From Net: NetName=GND Pin=J3-3
+Removed Pin From Net: NetName=GND Pin=J3-4
+Added Component: Designator=J3(block)
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=H_Grid Pin=J3-3
+Added Pin To Net: NetName=N_Grid Pin=J3-4
+Added Member To Class: ClassName=Logic_Power Member=Component +5V_NI TP
+Added Member To Class: ClassName=Logic_Power Member=Component SGND1 TP
+Added Member To Class: ClassName=Logic_Power Member=Component SGND TP

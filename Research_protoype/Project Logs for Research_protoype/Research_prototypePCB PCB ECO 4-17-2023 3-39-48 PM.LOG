@@ -1,0 +1,2 @@
+Change Net Name : Old Net Name=NetPS1_5 New Net Name=NetLabel75
+Added Member To Class: ClassName=Voltage_sensor Member=Component R37 Res1

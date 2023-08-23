@@ -1,0 +1,9 @@
+Added Component: Designator=U3(SOT95P275X130-5N)
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P2-2
+Added Pin To Net: NetName=NetR8_2 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=NetR8_2 Pin=U3-3
+Added Pin To Net: NetName=NetR9_2 Pin=U3-5
+Add Class Member: Failed to add class member : Component P2 BH-127A-1
+Added Member To Class: ClassName=Current_sensor Member=Component U3 TCR2EF50,LM(CT

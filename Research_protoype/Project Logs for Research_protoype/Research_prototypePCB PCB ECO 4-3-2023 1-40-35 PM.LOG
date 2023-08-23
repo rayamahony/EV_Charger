@@ -1,0 +1,3 @@
+Added Component: Designator=SGND(TP)
+Added Pin To Net: NetName=GND Pin=SGND-1
+Added Member To Class: ClassName=Logic_Power Member=Component SGND TP

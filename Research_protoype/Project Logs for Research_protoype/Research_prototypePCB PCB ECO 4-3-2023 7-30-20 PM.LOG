@@ -1,0 +1,6 @@
+Added Component: Designator=SGND2(TP)
+Added Component: Designator=SGND3(TP)
+Added Pin To Net: NetName=GND Pin=SGND2-1
+Added Pin To Net: NetName=GND Pin=SGND3-1
+Added Member To Class: ClassName=Main Member=Component SGND2 TP
+Added Member To Class: ClassName=Main Member=Component SGND3 TP

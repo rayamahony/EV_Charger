@@ -1,0 +1,6 @@
+Change Component Physical Designator: Old Designator=V_senseH New Designator=V_senseH_OUT
+Change Component Physical Designator: Old Designator=V_senseN New Designator=V_senseG_OUT
+Change Component Physical Designator: Old Designator=V_senseN New Designator=V_senseN_OUT
+Change Component Physical Designator: Old Designator=Vsense_G New Designator=Vsense_G_IN
+Change Component Physical Designator: Old Designator=Vsense_H New Designator=Vsense_H_IN
+Change Component Physical Designator: Old Designator=Vsense_N New Designator=Vsense_N_IN

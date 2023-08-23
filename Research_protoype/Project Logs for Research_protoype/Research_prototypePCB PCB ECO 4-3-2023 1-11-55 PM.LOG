@@ -1,0 +1,5 @@
+Added Component: Designator=P2(banana)
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Member To Class: ClassName=Designator Member=Component P2 BH-127A-1

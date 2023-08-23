@@ -1,0 +1,13 @@
+Added Component: Designator=PS1(CONV_RAC05-12SK/277/W)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Recom Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RAC05-12SK/277/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Recom Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RAC05-12SK/277/W/Recom%20Power/view-part/3227993/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=N Pin=PS1-1
+Added Pin To Net: NetName=NetPS1_5 Pin=PS1-5
+Added Pin To Net: NetName=+12 Pin=PS1-7
+Added Pin To Net: NetName=GND Pin=PS1-9
+Added Member To Class: ClassName=Logic_Power Member=Component PS1 RAC05-12SK/277/W

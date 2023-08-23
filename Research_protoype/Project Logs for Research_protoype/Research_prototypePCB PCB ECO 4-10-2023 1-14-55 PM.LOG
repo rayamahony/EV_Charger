@@ -1,0 +1,6 @@
+Added Component: Designator=J4(block)
+Added Pin To Net: NetName=CurrentSensor_output_HOT Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=CurrentSensor_output_NEUTRAL Pin=J4-4
+Added Member To Class: ClassName=Main Member=Component J4 OSTOQ045450
